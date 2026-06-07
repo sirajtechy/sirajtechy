@@ -1,7 +1,7 @@
 # Hi, I'm Sirajuddeen G 👋
 
 **Technical Architect · AI/ML Engineer · Engineering Lead**
-*Currently driving Generative AI integration at Emirates Airlines, Dubai* ✈️
+*Currently working on  Generative AI integration at Emirates Airlines in Loyalty apps, Dubai* ✈️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--sirajuddeen-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-sirajuddeen)
 [![Twitter](https://img.shields.io/badge/Twitter-mohd__siraj__28-black?logo=x&logoColor=white)](https://x.com/mohd_siraj_28)
