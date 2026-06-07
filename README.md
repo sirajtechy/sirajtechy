@@ -22,9 +22,6 @@ Expert in LLM orchestration, AI agent design (reasoning, planning, tool use, mem
 | Project | What It Is |
 |---------|------------|
 | [TradingAgent](https://github.com/sirajtechy/TradingAgent) | Multi-agent stock trading system with LangGraph — fundamental, technical & sentiment analysis agents |
-| [AI-Agents-2026](https://github.com/sirajtechy/AI-Agents-2026) | Production-grade agentic AI workflows and patterns in TypeScript |
-| [dspy-prompt-optimizer](https://github.com/sirajtechy/dspy-prompt-optimizer) | Prompt optimization using the DSPy framework |
-| [hiring-agent](https://github.com/sirajtechy/hiring-agent) | AI-powered autonomous hiring automation agent |
 
 ---
 
